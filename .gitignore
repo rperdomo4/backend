@@ -82,7 +82,4 @@ yarn.lock
 # Ignore all .env files
 .env*
 # Ignorar la carpeta "data"
-uploads/
 
-temp/
-backend/temp/parsedData.json
